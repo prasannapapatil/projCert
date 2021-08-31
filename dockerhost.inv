@@ -1,2 +1,2 @@
 [dockerhost]
-10.3.0.5 jenkins_user=azureuser
+10.3.0.5 ansible_user=azureuser
